@@ -1,2 +1,2 @@
 # Todo-react-app
-Created with CodeSandbox
+to run this app do run - npm install node-modules
